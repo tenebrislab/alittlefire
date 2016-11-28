@@ -20,7 +20,7 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 110%;
+		font-size: 100%;
 		/*font-family: 'Bungee Hairline', cursive;*/
 		/*font-family: 'Indie Flower', cursive;*/
 		font-family: 'Amatic SC', cursive;
@@ -79,8 +79,8 @@
 		position:absolute;
 		top:0;
 		left:0;
-		width:100%;
-		height:100%;
+		width:90%;
+		height:90%;
 	}
 
 /* Basic */
